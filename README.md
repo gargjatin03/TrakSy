@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-<h1>🚀 Traksy</h1>
+<h1>Traksy</h1>
 <p>A real-time tracking app built with <b>Express.js</b> and <b>Socket.io</b></p>
 
 </div>
@@ -34,10 +34,8 @@ npm start
 
 <h2>🛠 Tech Stack</h2>
 <ul>
-  <li><a href="https://expressjs.com/">Express.js</a></li>
-  <li><a href="https://socket.io/">Socket.io</a></li>
+  <li>Express.js</a></li>
+  <li>Socket.io</a></li>
   <li>Node.js</li>
 </ul>
 
-<h2>📜 License</h2>
-<p>This project is licensed under the <b>MIT License</b>.</p>
