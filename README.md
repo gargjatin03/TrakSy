@@ -18,7 +18,7 @@
 <h2>⚡ Installation</h2>
 <pre>
 <code>
-git clone https://github.com/&lt;your-username&gt;/traksy.git
+git clone https://github.com/&lt;gargjatin03&gt;/traksy.git
 cd traksy
 npm install
 </code>
